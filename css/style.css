@@ -125,6 +125,10 @@ h1,
   color: #000;
 }
 
+.headsize{
+  font-size: 45px;
+}
+
 h2,
 .h2{ 
   position: relative;
